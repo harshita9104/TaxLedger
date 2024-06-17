@@ -1,5 +1,5 @@
 # TaxLedger
-This project aims to develop a blockchain-based transaction system that ensures secure payments and automates tax collection. This system integrates with MetaMask wallets for both customers and businesses and directly transfers the applicable tax to the government. The project enhances transparency  and provides real-time updates on transaction status.
+This project aims to develop a blockchain-based transaction system that ensures secure payments and automates tax collection. This system integrates with MetaMask wallets for both customers and businesses and directly transfers the applicable tax to the government. The project enhances transparency  and provides real-time updates on transaction status
 
 Key Features:
 
