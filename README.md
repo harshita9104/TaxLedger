@@ -7,7 +7,10 @@ MetaMask Integration: Secure payment process using MetaMask wallets.
 Automated Tax Collection: The system automatically calculates and transfers the tax to the government's wallet.
 Real-Time Transaction Status: Immediate updates on payment and tax transfer statuses.
 Invoice Generation: Automatic invoice generation upon successful transaction and tax payment.
+
+
 Flowchart:
+
 Business: Displays the transaction details, including product list and total cost.
 Customer: MetaMask wallet opens for payment.
 Business: Receives the payment, updates the account balance, and sends tax to the government.
