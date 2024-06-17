@@ -22,8 +22,8 @@ const Input = ({ placeholder, name, type, value, handleChange }) => (
 const Form=()=>
 {
 
-    const { currentAccount, connectWallet, handleChange, PayToBuss, formData} = useContext(TransactionContext);
-
+    // const { currentAccount, connectWallet, handleChange, PayToBuss, formData} = useContext(TransactionContext);
+const { handleChange, PayToBuss, formData } = useContext(TransactionContext);
     const handleSubmit = (e) => {
         e.preventDefault();
       const { amount, addressTo, taxrate } = formData;
